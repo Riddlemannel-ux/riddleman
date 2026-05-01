@@ -1,5 +1,5 @@
 {
-    "name": "JEAN STEPH MD",
+    "name": "RIDDLE MAN MD",
     "version": "1.0.1",
     "description": "AI-powered WhatsApp Bot - Simple, Fast, and Efficient! ",
     "main": "index.js",
@@ -11,7 +11,7 @@
         "whiskeysockets",
         "multi-device"
     ],
-    "author": "JEAN STEPH TECH",
+    "author": "RIDDLEMAN TECH",
     "license": "MIT",
     "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
